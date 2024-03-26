@@ -19,7 +19,7 @@
     "@web3modal/ethers": "^4.0.5",
     "antd": "^5.12.7",
     "ethers": "^6.11.1",
-    "framer-motion": "^10.18.0",
+    "framer-motion": "^11.0.0",
     "i18next-browser-languagedetector": "^7.2.0",
     "i18next-http-backend": "^2.5.0",
     "netlify-cli": "^17.13.2",
