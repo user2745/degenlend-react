@@ -30,7 +30,7 @@
     "react-router-dom": "^6.21.1",
     "react-scripts": "5.0.1",
     "typescript": "^5.0.0",
-    "viem": "1.21.4",
+    "viem": "2.9.4",
     "wagmi": "2.5.12",
     "web-vitals": "^3.0.0",
     "web3": "^4.4.0"
