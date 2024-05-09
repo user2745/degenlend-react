@@ -6,7 +6,7 @@
     "@ant-design/icons": "^5.2.6",
     "@fleekhq/fleek-cli": "^0.1.8",
     "@metamask/sdk-react": "^0.18.0",
-    "@metamask/sdk-react-ui": "^0.14.3",
+    "@metamask/sdk-react-ui": "^0.20.0",
     "@nextui-org/react": "^2.2.9",
     "@reduxjs/toolkit": "^2.0.1",
     "@testing-library/jest-dom": "^5.17.0",
