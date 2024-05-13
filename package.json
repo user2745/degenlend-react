@@ -32,7 +32,7 @@
     "typescript": "^5.0.0",
     "viem": "1.21.4",
     "wagmi": "2.5.12",
-    "web-vitals": "^3.0.0",
+    "web-vitals": "^4.0.0",
     "web3": "^4.4.0"
   },
   "scripts": {
