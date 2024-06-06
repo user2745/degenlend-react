@@ -31,7 +31,7 @@
     "react-scripts": "5.0.1",
     "typescript": "^5.0.0",
     "viem": "1.21.4",
-    "wagmi": "2.5.12",
+    "wagmi": "2.9.9",
     "web-vitals": "^3.0.0",
     "web3": "^4.4.0"
   },
